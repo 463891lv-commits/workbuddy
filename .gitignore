@@ -1,0 +1,16 @@
+# WorkBuddy 会话缓存（非项目代码，不入库）
+.workbuddy/
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
